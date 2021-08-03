@@ -1,5 +1,3 @@
-x = 3
-
 [repository]
 sequence = "Test Sequence"
 
