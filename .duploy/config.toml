@@ -4,5 +4,8 @@ x = 3
 sequence = "Test Sequence"
 
 [components.code]
+deploys_checks = [
+  {name = "deploy-staging", atomic = true}
+]
 
 [components.database]
