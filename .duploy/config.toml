@@ -2,7 +2,7 @@ x = 3
 
 [repository]
 sequence = "Test Sequence"
-merge_checks = ["build"]
+merge_checks = ["test"]
 
 [components.code]
 deploy_checks = [
